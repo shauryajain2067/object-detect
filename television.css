@@ -1,0 +1,14 @@
+.back{
+    background-color:white;
+    font-weight:bold;
+    font-size:10px;
+    color:black;
+    float:right;
+    border-radius:20px;
+    width:100px;
+    height:50px;
+    margin-top:10px;
+}
+body{
+    background-size:cover;
+}
